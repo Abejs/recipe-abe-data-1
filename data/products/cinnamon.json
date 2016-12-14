@@ -1,0 +1,44 @@
+{
+  "level-1": [
+    "products"
+  ],
+  "selectTemplate": [
+    "product"
+  ],
+  "name": "cinnamon",
+  "null": "bhmUfZsS-jRjAJJ4DUCtXl0lJYZNy_oXPG5k",
+  "abeEditor": "false",
+  "title": "cinnamon",
+  "cover": "/image/cinnamon-89b5.gif",
+  "oldFilePath": "/products/cinnamon.html",
+  "cover_300x200": "/image/cinnamon-89b5_300x200.gif",
+  "abe_meta": {
+    "template": "product",
+    "link": "/products/cinnamon.html",
+    "date": "2016-12-14T21:46:46.035Z",
+    "latest": {
+      "date": "2016-12-14T21:46:47.701Z",
+      "abeUrl": "/products/cinnamon.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2016-12-14T21:46:46.035Z",
+        "abeUrl": "/products/cinnamon-abe-d20161214T214646035Z.html"
+      },
+      "date": "2016-12-14T21:46:46.035Z",
+      "abeUrl": "/products/cinnamon-abe-d20161214T214646035Z.html"
+    },
+    "complete": "100",
+    "cleanName": "cinnamon",
+    "cleanFilename": "/products",
+    "publish": {
+      "latest": {
+        "date": "2016-12-14T21:46:47.701Z",
+        "abeUrl": "/products/cinnamon.html"
+      },
+      "date": "2016-12-14T21:46:47.701Z",
+      "abeUrl": "/products/cinnamon.html"
+    }
+  }
+}

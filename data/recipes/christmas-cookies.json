@@ -1,0 +1,150 @@
+{
+  "level-1": [
+    "recipes"
+  ],
+  "selectTemplate": [
+    "recipe"
+  ],
+  "name": "Christmas cookies",
+  "null": "hBJ8lCTt-XcOdAYwPo1Xy15F4b74U40G4jXM",
+  "abeEditor": "false",
+  "products": [
+    {
+      "title": "p1",
+      "cover_300x200": "/image/aix_en_provence_square-albertas_photo_1-db54_300x200.jpg",
+      "abe_meta": {
+        "template": "product",
+        "link": "/products/p1.html",
+        "date": "2016-12-13T22:09:53.747Z",
+        "latest": {
+          "date": "2016-12-13T22:11:21.673Z",
+          "abeUrl": "/products/p1.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:09:53.747Z",
+            "abeUrl": "/products/p1-abe-d20161213T220953747Z.html"
+          },
+          "date": "2016-12-13T22:09:53.747Z",
+          "abeUrl": "/products/p1-abe-d20161213T220953747Z.html"
+        },
+        "complete": "100",
+        "cleanName": "p1",
+        "cleanFilename": "/products",
+        "publish": {
+          "latest": {
+            "date": "2016-12-13T22:11:21.673Z",
+            "abeUrl": "/products/p1.html"
+          },
+          "date": "2016-12-13T22:10:54.187Z",
+          "abeUrl": "/products/p1.html"
+        }
+      }
+    }
+  ],
+  "recipe": "Recipe 2",
+  "cover": "/image/christmas-cookies-8d00.jpg",
+  "oldFilePath": "/recipes/christmas-cookies.html",
+  "title": "Christmas cookies",
+  "cover_300x200": "/image/christmas-cookies-8d00_300x200.jpg",
+  "abe_meta": {
+    "template": "recipe",
+    "link": "/recipes/christmas-cookies.html",
+    "date": "2016-12-14T21:40:57.378Z",
+    "latest": {
+      "date": "2016-12-14T21:50:19.867Z",
+      "abeUrl": "/recipes/christmas-cookies.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2016-12-14T21:40:57.378Z",
+        "abeUrl": "/recipes/christmas-cookies-abe-d20161214T214057378Z.html"
+      },
+      "date": "2016-12-14T21:40:57.378Z",
+      "abeUrl": "/recipes/christmas-cookies-abe-d20161214T214057378Z.html"
+    },
+    "complete": "100",
+    "cleanName": "christmas-cookies",
+    "cleanFilename": "/recipes",
+    "publish": {
+      "latest": {
+        "date": "2016-12-14T21:50:19.867Z",
+        "abeUrl": "/recipes/christmas-cookies.html"
+      },
+      "date": "2016-12-14T21:40:59.845Z",
+      "abeUrl": "/recipes/christmas-cookies.html"
+    }
+  },
+  "ingredients": [
+    {
+      "title": "cinnamon",
+      "cover_300x200": "/image/cinnamon-89b5_300x200.gif",
+      "abe_meta": {
+        "template": "product",
+        "link": "/products/cinnamon.html",
+        "date": "2016-12-14T21:46:46.035Z",
+        "latest": {
+          "date": "2016-12-14T21:46:47.701Z",
+          "abeUrl": "/products/cinnamon.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-14T21:46:46.035Z",
+            "abeUrl": "/products/cinnamon-abe-d20161214T214646035Z.html"
+          },
+          "date": "2016-12-14T21:46:46.035Z",
+          "abeUrl": "/products/cinnamon-abe-d20161214T214646035Z.html"
+        },
+        "complete": "100",
+        "cleanName": "cinnamon",
+        "cleanFilename": "/products",
+        "publish": {
+          "latest": {
+            "date": "2016-12-14T21:46:47.701Z",
+            "abeUrl": "/products/cinnamon.html"
+          },
+          "date": "2016-12-14T21:46:47.701Z",
+          "abeUrl": "/products/cinnamon.html"
+        }
+      }
+    }
+  ],
+  "other_recipes": [
+    {
+      "title": "Gingerbread",
+      "cover_300x200": "/image/gingerbread-996a_300x200.jpg",
+      "abe_meta": {
+        "template": "recipe",
+        "link": "/recipes/gingerbread.html",
+        "date": "2016-12-14T21:39:47.821Z",
+        "latest": {
+          "date": "2016-12-14T21:47:22.484Z",
+          "abeUrl": "/recipes/gingerbread.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-14T21:39:47.821Z",
+            "abeUrl": "/recipes/gingerbread-abe-d20161214T213947821Z.html"
+          },
+          "date": "2016-12-14T21:39:47.821Z",
+          "abeUrl": "/recipes/gingerbread-abe-d20161214T213947821Z.html"
+        },
+        "complete": "100",
+        "cleanName": "gingerbread",
+        "cleanFilename": "/recipes",
+        "publish": {
+          "latest": {
+            "date": "2016-12-14T21:47:22.484Z",
+            "abeUrl": "/recipes/gingerbread.html"
+          },
+          "date": "2016-12-14T21:41:09.992Z",
+          "abeUrl": "/recipes/gingerbread.html"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "level-1": "recipes",
+  "selectTemplate": "recipe",
+  "name": "Raspberry",
+  "null": "xrAAIPrn-ZeCzNN31bDfJohrttNHTNvKzfPg",
+  "abeEditor": "false",
+  "products": [
+    {
+      "title": "p2",
+      "cover_300x200": "/image/trouville_sur_mer_built_structure_photo_1-3167_300x200.jpg",
+      "abe_meta": {
+        "template": "product",
+        "link": "/products/p2.html",
+        "date": "2016-12-13T22:13:18.058Z",
+        "latest": {
+          "date": "2016-12-13T22:13:34.024Z",
+          "abeUrl": "/products/p2.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:13:18.058Z",
+            "abeUrl": "/products/p2-abe-d20161213T221318058Z.html"
+          },
+          "date": "2016-12-13T22:13:18.058Z",
+          "abeUrl": "/products/p2-abe-d20161213T221318058Z.html"
+        },
+        "complete": "100",
+        "cleanName": "p2",
+        "cleanFilename": "/products",
+        "publish": {
+          "latest": {
+            "date": "2016-12-13T22:13:34.024Z",
+            "abeUrl": "/products/p2.html"
+          },
+          "date": "2016-12-13T22:13:34.024Z",
+          "abeUrl": "/products/p2.html"
+        }
+      }
+    }
+  ],
+  "recipe": "Recipe 3",
+  "cover": "/image/rasperry-8e38.jpg",
+  "oldFilePath": "/recipes/r3.html",
+  "title": "Raspberry",
+  "cover_300x200": "/image/rasperry-8e38_300x200.jpg",
+  "other_recipes": [
+    {
+      "title": "Raspberry",
+      "cover_300x200": "/image/rasperry-8e38_300x200.jpg",
+      "abe_meta": {
+        "template": "recipe",
+        "link": "/recipes/r3.html",
+        "date": "2016-12-13T22:22:08.473Z",
+        "latest": {
+          "date": "2016-12-14T21:40:08.797Z",
+          "abeUrl": "/recipes/r3.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:22:08.473Z",
+            "abeUrl": "/recipes/r3-abe-d20161213T222208473Z.html"
+          },
+          "date": "2016-12-13T22:22:08.473Z",
+          "abeUrl": "/recipes/r3-abe-d20161213T222208473Z.html"
+        },
+        "complete": "100",
+        "cleanName": "r3",
+        "cleanFilename": "/recipes",
+        "publish": {
+          "latest": {
+            "date": "2016-12-14T21:40:08.797Z",
+            "abeUrl": "/recipes/r3.html"
+          },
+          "date": "2016-12-13T22:22:18.390Z",
+          "abeUrl": "/recipes/r3.html"
+        }
+      }
+    }
+  ],
+  "abe_meta": {
+    "template": "recipe",
+    "link": "/recipes/raspberry.html",
+    "date": "2016-12-14T21:40:19.294Z",
+    "latest": {
+      "date": "2016-12-14T21:40:19.294Z",
+      "abeUrl": "/recipes/raspberry-abe-d20161214T214019294Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2016-12-14T21:40:19.294Z",
+        "abeUrl": "/recipes/raspberry-abe-d20161214T214019294Z.html"
+      },
+      "date": "2016-12-14T21:40:19.294Z",
+      "abeUrl": "/recipes/raspberry-abe-d20161214T214019294Z.html"
+    },
+    "complete": "100"
+  }
+}

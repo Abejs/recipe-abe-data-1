@@ -1,0 +1,31 @@
+{{abe type="data" key="ingredients" source="select title,cover_300x200 from /products where `abe_meta.template`=`product`" desc="select ingredients" display="{{title}}"}}
+
+{{abe type="data" key="other_recipes" source="select title,cover_300x200 from /recipes where `ingredients[].title` IN (`{{ingredients}}`) AND `abe_meta.link`!=`{{abe_meta.link}}`" editable="false"}}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RECIPE</title>
+</head>
+<body>
+<h1>{{abe type="text" key="title" desc="recipe"}}</h1>
+{{abe type="image" key="cover" desc="image" thumbs="300x200" visible="false" reload="true"}}
+<img src="{{cover_300x200}}"/>
+
+<h3>ingredients</h3>
+<hr>
+<div>
+{{#each ingredients}}
+<p>{{title}}</p>
+{{/each}}
+</div>
+
+
+<h3>OTHER RECIPES with the same ingredients</h3>
+<div>
+{{#each other_recipes}}
+  <p>{{title}}</p>
+  <img src="{{cover_300x200}}"/>
+{{/each}}
+</div>
+</body>
+</html>

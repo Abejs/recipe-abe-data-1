@@ -1,0 +1,197 @@
+{
+  "level-1": "recipes",
+  "selectTemplate": "recipe",
+  "name": "Chocolate pecan",
+  "null": "5ccgW5wW-mVkbPN_JVBZjOPPhOl16eOkOKBY",
+  "abeEditor": "false",
+  "products": [
+    {
+      "title": "p2",
+      "cover_300x200": "/image/trouville_sur_mer_built_structure_photo_1-3167_300x200.jpg",
+      "abe_meta": {
+        "template": "product",
+        "link": "/products/p2.html",
+        "date": "2016-12-13T22:13:18.058Z",
+        "latest": {
+          "date": "2016-12-13T22:13:34.024Z",
+          "abeUrl": "/products/p2.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:13:18.058Z",
+            "abeUrl": "/products/p2-abe-d20161213T221318058Z.html"
+          },
+          "date": "2016-12-13T22:13:18.058Z",
+          "abeUrl": "/products/p2-abe-d20161213T221318058Z.html"
+        },
+        "complete": "100",
+        "cleanName": "p2",
+        "cleanFilename": "/products",
+        "publish": {
+          "latest": {
+            "date": "2016-12-13T22:13:34.024Z",
+            "abeUrl": "/products/p2.html"
+          },
+          "date": "2016-12-13T22:13:34.024Z",
+          "abeUrl": "/products/p2.html"
+        }
+      }
+    },
+    {
+      "title": "p1",
+      "cover_300x200": "/image/aix_en_provence_square-albertas_photo_1-db54_300x200.jpg",
+      "abe_meta": {
+        "template": "product",
+        "link": "/products/p1.html",
+        "date": "2016-12-13T22:09:53.747Z",
+        "latest": {
+          "date": "2016-12-13T22:11:21.673Z",
+          "abeUrl": "/products/p1.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:09:53.747Z",
+            "abeUrl": "/products/p1-abe-d20161213T220953747Z.html"
+          },
+          "date": "2016-12-13T22:09:53.747Z",
+          "abeUrl": "/products/p1-abe-d20161213T220953747Z.html"
+        },
+        "complete": "100",
+        "cleanName": "p1",
+        "cleanFilename": "/products",
+        "publish": {
+          "latest": {
+            "date": "2016-12-13T22:11:21.673Z",
+            "abeUrl": "/products/p1.html"
+          },
+          "date": "2016-12-13T22:10:54.187Z",
+          "abeUrl": "/products/p1.html"
+        }
+      }
+    }
+  ],
+  "recipe": "Recipe 1",
+  "cover": "/image/chocolate-pecan-b495.jpg",
+  "oldFilePath": "/recipes/r1.html",
+  "other_recipes": [
+    {
+      "title": "turkey",
+      "abe_meta": {
+        "template": "recipe",
+        "link": "/recipes/r4.html",
+        "date": "2016-12-14T18:24:23.976Z",
+        "latest": {
+          "date": "2016-12-14T20:59:28.159Z",
+          "abeUrl": "/recipes/r4.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-14T18:24:23.976Z",
+            "abeUrl": "/recipes/r4-abe-d20161214T182423976Z.html"
+          },
+          "date": "2016-12-14T18:24:23.976Z",
+          "abeUrl": "/recipes/r4-abe-d20161214T182423976Z.html"
+        },
+        "complete": "100",
+        "cleanName": "r4",
+        "cleanFilename": "/recipes",
+        "publish": {
+          "latest": {
+            "date": "2016-12-14T20:59:28.159Z",
+            "abeUrl": "/recipes/r4.html"
+          },
+          "date": "2016-12-14T18:24:40.821Z",
+          "abeUrl": "/recipes/r4.html"
+        }
+      }
+    },
+    {
+      "title": "soup",
+      "abe_meta": {
+        "template": "recipe",
+        "link": "/recipes/r3.html",
+        "date": "2016-12-13T22:22:08.473Z",
+        "latest": {
+          "date": "2016-12-14T20:58:43.179Z",
+          "abeUrl": "/recipes/r3.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:22:08.473Z",
+            "abeUrl": "/recipes/r3-abe-d20161213T222208473Z.html"
+          },
+          "date": "2016-12-13T22:22:08.473Z",
+          "abeUrl": "/recipes/r3-abe-d20161213T222208473Z.html"
+        },
+        "complete": "100",
+        "cleanName": "r3",
+        "cleanFilename": "/recipes",
+        "publish": {
+          "latest": {
+            "date": "2016-12-14T20:58:43.179Z",
+            "abeUrl": "/recipes/r3.html"
+          },
+          "date": "2016-12-13T22:22:18.390Z",
+          "abeUrl": "/recipes/r3.html"
+        }
+      }
+    },
+    {
+      "title": "chicken",
+      "abe_meta": {
+        "template": "recipe",
+        "link": "/recipes/r2.html",
+        "date": "2016-12-13T22:21:44.195Z",
+        "latest": {
+          "date": "2016-12-14T20:58:08.573Z",
+          "abeUrl": "/recipes/r2.html"
+        },
+        "status": "publish",
+        "draft": {
+          "latest": {
+            "date": "2016-12-13T22:21:44.195Z",
+            "abeUrl": "/recipes/r2-abe-d20161213T222144195Z.html"
+          },
+          "date": "2016-12-13T22:21:44.195Z",
+          "abeUrl": "/recipes/r2-abe-d20161213T222144195Z.html"
+        },
+        "complete": "100",
+        "cleanName": "r2",
+        "cleanFilename": "/recipes",
+        "publish": {
+          "latest": {
+            "date": "2016-12-14T20:58:08.573Z",
+            "abeUrl": "/recipes/r2.html"
+          },
+          "date": "2016-12-13T22:21:53.294Z",
+          "abeUrl": "/recipes/r2.html"
+        }
+      }
+    }
+  ],
+  "title": "Chocolate pecan",
+  "cover_300x200": "/image/chocolate-pecan-b495_300x200.jpg",
+  "abe_meta": {
+    "template": "recipe",
+    "link": "/recipes/chocolate-pecan.html",
+    "date": "2016-12-14T21:39:15.702Z",
+    "latest": {
+      "date": "2016-12-14T21:39:15.702Z",
+      "abeUrl": "/recipes/chocolate-pecan-abe-d20161214T213915702Z.html"
+    },
+    "status": "draft",
+    "draft": {
+      "latest": {
+        "date": "2016-12-14T21:39:15.702Z",
+        "abeUrl": "/recipes/chocolate-pecan-abe-d20161214T213915702Z.html"
+      },
+      "date": "2016-12-14T21:39:15.702Z",
+      "abeUrl": "/recipes/chocolate-pecan-abe-d20161214T213915702Z.html"
+    },
+    "complete": "100"
+  }
+}

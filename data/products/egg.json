@@ -1,0 +1,44 @@
+{
+  "level-1": [
+    "products"
+  ],
+  "selectTemplate": [
+    "product"
+  ],
+  "name": "egg",
+  "null": "DQBCdszN-_01H78OdwKW4Rw7qXkLSv8m2lb4",
+  "abeEditor": "false",
+  "cover": "/image/egg-6a2e.jpg",
+  "oldFilePath": "/products/egg.html",
+  "cover_300x200": "/image/egg-6a2e_300x200.jpg",
+  "title": "Egg",
+  "abe_meta": {
+    "template": "product",
+    "link": "/products/egg.html",
+    "date": "2016-12-14T21:46:15.122Z",
+    "latest": {
+      "date": "2016-12-14T21:46:17.247Z",
+      "abeUrl": "/products/egg.html"
+    },
+    "status": "publish",
+    "draft": {
+      "latest": {
+        "date": "2016-12-14T21:46:15.122Z",
+        "abeUrl": "/products/egg-abe-d20161214T214615122Z.html"
+      },
+      "date": "2016-12-14T21:46:15.122Z",
+      "abeUrl": "/products/egg-abe-d20161214T214615122Z.html"
+    },
+    "complete": "100",
+    "cleanName": "egg",
+    "cleanFilename": "/products",
+    "publish": {
+      "latest": {
+        "date": "2016-12-14T21:46:17.247Z",
+        "abeUrl": "/products/egg.html"
+      },
+      "date": "2016-12-14T21:46:17.247Z",
+      "abeUrl": "/products/egg.html"
+    }
+  }
+}
