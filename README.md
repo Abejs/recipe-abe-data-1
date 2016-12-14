@@ -12,9 +12,9 @@ This recipe shows how you can select pages containing the same attributes
 # Description
 In this recipe, you'll see how you can select other contents from your blog based on attributes of your post.
 
-The example choosen is based on recipes and ingredients:
+The example is based on recipes and ingredients:
 - You create ingredients with the "product" template
-- You create recipes with the "recipe" template. In this template, a drop down list of existing products is displayed. You can choose multiple products (ingredients) for your recipe.
+- You create recipes with the "recipe" template. In this template, a drop down list of existing products is displayed. You can choose multiple products (ingredients) for your recipe. Based on this products, a list of recipes containing some of the same ingredients are automatically displayed.
 
 # The recipe template
 ## How it works
